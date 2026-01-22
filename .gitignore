@@ -1,1 +1,5 @@
 .cursor
+
+# Build artifacts
+fastify-ts-app/dist/
+fastify-ts-app/node_modules/
