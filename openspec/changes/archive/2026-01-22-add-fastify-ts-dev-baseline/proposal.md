@@ -1,7 +1,7 @@
 # Change: Add Fastify + TypeScript development baseline requirement
 
 ## Why
-The development baseline for local development with TypeScript + Fastify is currently described in a narrative document (`openspec/specs/linepusher/LP-CB-08-fastify-ts-dev-baseline.md`) but is not expressed as a machine-parseable OpenSpec requirement.
+The development baseline for local development with TypeScript + Fastify is currently described in a narrative document (`openspec/draft/LP-CB-08-fastify-ts-dev.md`) but is not expressed as a machine-parseable OpenSpec requirement.
 
 We need a formal requirement so that the development environment setup can be validated, reasoned about, and evolved using the OpenSpec workflow.
 

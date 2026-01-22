@@ -1,7 +1,7 @@
 # Change: Add spec for follow welcome message
 
 ## Why
-The behavior when a user follows the LinePusher LINE account is currently described in a narrative document (`openspec/specs/linepusher/LP-CB-01-follow-welcome.md`) but is not expressed as a machine-parseable OpenSpec requirement.
+The behavior when a user follows the LinePusher LINE account is currently described in a narrative document (`openspec/draft/LP-CB-01-follow-welcome.md`) but is not expressed as a machine-parseable OpenSpec requirement.
 We need a formal requirement so that this core behavior can be validated, reasoned about, and evolved using the OpenSpec workflow.
 
 ## What Changes
