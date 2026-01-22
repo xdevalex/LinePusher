@@ -33,3 +33,9 @@ The system provides a simple, non-technical usage guide to help users understand
 
 - Teaching technical concepts such as webhooks.
 - Providing advanced configuration or troubleshooting steps.
+
+---
+
+## Implementation Notes
+
+- The service is implemented with TypeScript + Fastify.

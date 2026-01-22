@@ -30,3 +30,9 @@ The user can access historical notification records via an external link.
 
 - Defining history retention period or storage details.
 - Defining filtering, searching, or export capabilities.
+
+---
+
+## Implementation Notes
+
+- The service is implemented with TypeScript + Fastify.

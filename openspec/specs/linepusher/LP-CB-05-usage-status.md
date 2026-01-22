@@ -33,3 +33,9 @@ The user can query current notification usage and remaining quota via the LINE m
 
 - Displaying historical usage charts or trends.
 - Exposing billing details or payment information.
+
+---
+
+## Implementation Notes
+
+- The service is implemented with TypeScript + Fastify.
